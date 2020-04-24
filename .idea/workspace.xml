@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="392e2f0c-81cd-4783-9143-3a332d4771a1" name="Default Changelist" comment="" />
+    <list default="true" id="392e2f0c-81cd-4783-9143-3a332d4771a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/mysite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/mysite/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/mysite/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/mysite/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/mysite/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/0002_auto_20200424_1326.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diango_demo/mysite/polls/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hs/get_Hs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jichang/demo01_jichang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/us_hs/htsdata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/us_hs/parse_us_hs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gangkou/get_gangkou.py" beforeDir="false" afterPath="$PROJECT_DIR$/gangkou/get_gangkou.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs/demo1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs/gangkou_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hs/test.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,33 +40,41 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a17fpXkjRQLQ212JYDe0liCE6t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\jichang" />
       <recent name="E:\python\beatiful_soup" />
       <recent name="E:\python\requests" />
       <recent name="E:\python\urllib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_gangkou">
-    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.tests">
+    <configuration name="demo01_jichang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,12 +82,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jichang" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/demo01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jichang/demo01_jichang.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_gangkou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="get_Hs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,12 +104,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/gangkou" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/gangkou/get_gangkou.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hs/get_Hs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lagou" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="parse_us_hs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,34 +126,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/selenium" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/us_hs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/selenium/lagou.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/qsbk" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qsbk/start.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/us_hs/parse_us_hs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,12 +162,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diango_demo/mysite/polls" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diango_demo/mysite/polls/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.get_gangkou" />
-        <item itemvalue="Python.lagou" />
-        <item itemvalue="Python.demo01" />
-        <item itemvalue="Python.start" />
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.demo01_jichang" />
+        <item itemvalue="Python.parse_us_hs" />
+        <item itemvalue="Python.get_Hs" />
         <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
@@ -182,12 +220,20 @@
       <workItem from="1587430155229" duration="2929000" />
       <workItem from="1587434666065" duration="5822000" />
       <workItem from="1587440555053" duration="17747000" />
-      <workItem from="1587464405131" duration="301000" />
+      <workItem from="1587464405131" duration="542000" />
+      <workItem from="1587517288656" duration="21617000" />
+      <workItem from="1587603464020" duration="599000" />
+      <workItem from="1587618978781" duration="5061000" />
+      <workItem from="1587695435308" duration="291000" />
+      <workItem from="1587700832661" duration="15831000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="17" key="#Notifications" timestamp="1586506987396">
@@ -202,22 +248,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="653" y="186" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585891424174" />
-    <state width="868" height="266" key="GridCell.Tab.0.bottom" timestamp="1587464049175">
+    <state width="1225" height="266" key="GridCell.Tab.0.bottom" timestamp="1587636203868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="868" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587464049175" />
-    <state width="868" height="266" key="GridCell.Tab.0.center" timestamp="1587464049175">
+    <state width="1225" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
+    <state width="1225" height="266" key="GridCell.Tab.0.center" timestamp="1587636203868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="868" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587464049175" />
-    <state width="868" height="266" key="GridCell.Tab.0.left" timestamp="1587464049175">
+    <state width="1225" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
+    <state width="1225" height="266" key="GridCell.Tab.0.left" timestamp="1587636203868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="868" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587464049175" />
-    <state width="868" height="266" key="GridCell.Tab.0.right" timestamp="1587464049175">
+    <state width="1225" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
+    <state width="1225" height="266" key="GridCell.Tab.0.right" timestamp="1587636203868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="868" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587464049175" />
+    <state width="1225" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
     <state width="876" height="304" key="GridCell.Tab.1.bottom" timestamp="1587290637808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -234,10 +280,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="876" height="304" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587290637808" />
-    <state x="428" y="0" key="SettingsEditor" timestamp="1587446048950">
+    <state x="198" y="0" key="SettingsEditor" timestamp="1587701198865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="428" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587446048950" />
+    <state x="198" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587701198865" />
     <state x="603" y="135" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587089236619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -255,24 +301,29 @@
     <SUITE FILE_PATH="coverage/python$test_html__1_.coverage" NAME="test_html (1) Coverage Results" MODIFIED="1587004540695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo09post.coverage" NAME="demo09post Coverage Results" MODIFIED="1586595885032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo05cookie.coverage" NAME="demo05cookie Coverage Results" MODIFIED="1586225982436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1587521252160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gangkou" />
     <SUITE FILE_PATH="coverage/python$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1586222977954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$hs_beautiful_soup.coverage" NAME="hs_beautiful_soup Coverage Results" MODIFIED="1587086599682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beatiful_soup" />
     <SUITE FILE_PATH="coverage/python$demo07save_cookie.coverage" NAME="demo07save_cookie Coverage Results" MODIFIED="1586506681536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1587457802907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/python$demo03lagou.coverage" NAME="demo03lagou Coverage Results" MODIFIED="1586167065131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$get_Hs.coverage" NAME="get_Hs Coverage Results" MODIFIED="1587545385153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
+    <SUITE FILE_PATH="coverage/python$demo01_jichang.coverage" NAME="demo01_jichang Coverage Results" MODIFIED="1587623665619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jichang" />
     <SUITE FILE_PATH="coverage/python$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1586158783935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$dome02_hs_bm.coverage" NAME="dome02_hs_bm Coverage Results" MODIFIED="1587090564075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beatiful_soup" />
     <SUITE FILE_PATH="coverage/python$demo03_weather.coverage" NAME="demo03_weather Coverage Results" MODIFIED="1587116390723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beatiful_soup" />
     <SUITE FILE_PATH="coverage/python$lagou.coverage" NAME="lagou Coverage Results" MODIFIED="1587461367635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
     <SUITE FILE_PATH="coverage/python$demo08requests.coverage" NAME="demo08requests Coverage Results" MODIFIED="1586510021592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$start.coverage" NAME="start Coverage Results" MODIFIED="1587448463997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qsbk" />
+    <SUITE FILE_PATH="coverage/python$parse_us_hs.coverage" NAME="parse_us_hs Coverage Results" MODIFIED="1587550493589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/us_hs" />
     <SUITE FILE_PATH="coverage/python$cookie.coverage" NAME="cookie自动登录 Coverage Results" MODIFIED="1586231104949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$demo11_lxml__1_.coverage" NAME="demo11_lxml (1) Coverage Results" MODIFIED="1586944428462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo13_dianyingtiantang.coverage" NAME="demo13_dianyingtiantang Coverage Results" MODIFIED="1587029428765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$tenxun_html.coverage" NAME="tenxun.html Coverage Results" MODIFIED="1586946083146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1587430214871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1587435500574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
-    <SUITE FILE_PATH="coverage/python$get_gangkou.coverage" NAME="get_gangkou Coverage Results" MODIFIED="1587463813266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gangkou" />
+    <SUITE FILE_PATH="coverage/python$tests.coverage" NAME="tests Coverage Results" MODIFIED="1587695547286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diango_demo/mysite/polls" />
+    <SUITE FILE_PATH="coverage/python$get_gangkou.coverage" NAME="get_gangkou Coverage Results" MODIFIED="1587532734734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gangkou" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1587541932709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
     <SUITE FILE_PATH="coverage/python$demo10_ip.coverage" NAME="demo10_代理ip Coverage Results" MODIFIED="1586595301598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$lxml.coverage" NAME="lxml Coverage Results" MODIFIED="1586942287142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$demo12_douban.coverage" NAME="demo12_douban Coverage Results" MODIFIED="1587008103463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
