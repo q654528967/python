@@ -2,120 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392e2f0c-81cd-4783-9143-3a332d4771a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test_code/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/csv_test.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo06if_debug.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo07随机猜拳.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo08三目.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo10for_in.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo11切片.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo12sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo13_copy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo14_list_while.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo15_list随机分配.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo16_enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo17_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo18_re综合语法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo21_json_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo28_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo29_threading_class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo30_threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_20_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_22_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_23_write_csv.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_24_write_dict.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_25_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_27_mongo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_echart.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_hs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demo_re.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/demp_26_sql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/firstPython.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/hs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/logou.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/requests_post.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/temp.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/write.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_code/write1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_duoxianchen/demo01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_duoxianchen/demo_Condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_duoxianchen/demo_Queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_duoxianchen/demo_doutu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo_duoxianchen/demo_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wuliugenzong/ups.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/csv_test.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo03.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo05.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo06if_debug.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo07随机猜拳.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo08三目.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo09.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo10for_in.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo11切片.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo12sort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo13_copy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo14_list_while.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo15_list随机分配.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo16_enumerate.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo17_re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo18_re综合语法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo21_json_load.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo28_threading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo29_threading_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo30_threading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_19.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_20_json.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_22_csv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_23_write_csv.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_24_write_dict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_25_sql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_27_mongo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_echart.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_hs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo_re.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demp_26_sql.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/mysite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/mysite/asgi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/my_bbs/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/my_bbs/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/mysite/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/my_bbs/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/admin.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/0002_auto_20200424_1326.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/diango_demo/my_bbs/my_bbs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/models.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/detail.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/templates/polls/results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/tests.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/urls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diango_demo/mysite/polls/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstPython.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logou.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requests_post.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/write.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/write1.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="collations" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -127,7 +53,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1a17fpXkjRQLQ212JYDe0liCE6t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -140,29 +65,27 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\python_demo\python\diango_demo" />
+      <recent name="E:\python\diango_demo" />
       <recent name="E:\python\jichang" />
       <recent name="E:\python\beatiful_soup" />
       <recent name="E:\python\requests" />
       <recent name="E:\python\urllib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tests">
-    <configuration name="demo01_jichang" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.demo_doutu">
+    <configuration name="demo01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jichang" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_duoxianchen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jichang/demo01_jichang.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_duoxianchen/demo01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="get_Hs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_duoxianchen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hs/get_Hs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_duoxianchen/demo_Condition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="parse_us_hs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_Queue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/us_hs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_duoxianchen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/us_hs/parse_us_hs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_duoxianchen/demo_Queue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="demo_doutu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,12 +159,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo_duoxianchen" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hs/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo_duoxianchen/demo_doutu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -250,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ups" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,12 +181,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/diango_demo/mysite/polls" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/wuliugenzong" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diango_demo/mysite/polls/tests.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wuliugenzong/ups.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +197,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tests" />
-        <item itemvalue="Python.demo01_jichang" />
-        <item itemvalue="Python.parse_us_hs" />
-        <item itemvalue="Python.get_Hs" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.demo_doutu" />
+        <item itemvalue="Python.ups" />
+        <item itemvalue="Python.demo_Queue" />
+        <item itemvalue="Python.demo_Condition" />
+        <item itemvalue="Python.demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -314,8 +237,10 @@
       <workItem from="1587618978781" duration="5061000" />
       <workItem from="1587695435308" duration="291000" />
       <workItem from="1587700832661" duration="15831000" />
-      <workItem from="1587737116829" duration="796000" />
-      <workItem from="1587821180052" duration="1288000" />
+      <workItem from="1587783647927" duration="9707000" />
+      <workItem from="1587806482101" duration="741000" />
+      <workItem from="1587807411681" duration="1695000" />
+      <workItem from="1587882154275" duration="12440000" />
     </task>
     <servers />
   </component>
@@ -330,30 +255,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="686" y="17" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1586506987396" />
+    <state x="1032" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587807737543">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1032" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587807737543" />
+    <state x="1212" y="330" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587882506870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1212" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587882506870" />
     <state x="315" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586226717911">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="315" y="175" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1586226717911" />
-    <state x="653" y="186" key="FileChooserDialogImpl" timestamp="1585891424174">
+    <state x="1126" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1587887235394">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="653" y="186" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585891424174" />
-    <state width="1225" height="266" key="GridCell.Tab.0.bottom" timestamp="1587636203868">
+    <state x="1126" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1587887235394" />
+    <state x="739" y="169" key="DBNavigator.ProjectSettingsDialog" timestamp="1587807513726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1225" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
-    <state width="1225" height="266" key="GridCell.Tab.0.center" timestamp="1587636203868">
+    <state x="739" y="169" key="DBNavigator.ProjectSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587807513726" />
+    <state x="653" y="186" key="FileChooserDialogImpl" timestamp="1587807735513">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1225" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
-    <state width="1225" height="266" key="GridCell.Tab.0.left" timestamp="1587636203868">
+    <state x="653" y="186" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587807735513" />
+    <state width="888" height="257" key="GridCell.Tab.0.bottom" timestamp="1587895275150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1225" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
-    <state width="1225" height="266" key="GridCell.Tab.0.right" timestamp="1587636203868">
+    <state width="888" height="257" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587895275150" />
+    <state width="888" height="257" key="GridCell.Tab.0.center" timestamp="1587895275150">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1225" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587636203868" />
+    <state width="888" height="257" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587895275150" />
+    <state width="888" height="257" key="GridCell.Tab.0.left" timestamp="1587895275150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="257" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587895275150" />
+    <state width="888" height="257" key="GridCell.Tab.0.right" timestamp="1587895275150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="888" height="257" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587895275150" />
     <state width="876" height="304" key="GridCell.Tab.1.bottom" timestamp="1587290637808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -370,23 +311,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="876" height="304" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587290637808" />
-    <state x="141" y="0" key="SettingsEditor" timestamp="1587826131255">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="299" height="593" key="HiddenNamespacesPopup" timestamp="1587806402540">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="141" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587826131255" />
-    <state x="198" y="0" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587701198865" />
-    <state x="594" y="267" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587826792093">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="299" height="593" key="HiddenNamespacesPopup/0.0.1920.1040@0.0.1920.1040" timestamp="1587806402540" />
+    <state x="320" y="127" key="SettingsEditor" timestamp="1587885178555">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="594" y="267" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587826792093" />
+    <state x="320" y="127" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587885178555" />
     <state x="603" y="135" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1587089236619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="603" y="135" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1587089236619" />
-    <state x="519" y="0" width="964" height="1040" key="find.popup" timestamp="1586507394875">
+    <state x="519" y="0" width="1009" height="1040" key="find.popup" timestamp="1587887278193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="519" y="0" width="964" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1586507394875" />
+    <state x="519" y="0" width="1009" height="1040" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587887278193" />
     <state x="29" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1587448060835">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -400,9 +340,10 @@
     <SUITE FILE_PATH="coverage/python$demo04.coverage" NAME="demo04 Coverage Results" MODIFIED="1586222977954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$hs_beautiful_soup.coverage" NAME="hs_beautiful_soup Coverage Results" MODIFIED="1587086599682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beatiful_soup" />
     <SUITE FILE_PATH="coverage/python$demo07save_cookie.coverage" NAME="demo07save_cookie Coverage Results" MODIFIED="1586506681536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1587457802907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium" />
+    <SUITE FILE_PATH="coverage/python$demo01.coverage" NAME="demo01 Coverage Results" MODIFIED="1587886512779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_duoxianchen" />
     <SUITE FILE_PATH="coverage/python$demo03lagou.coverage" NAME="demo03lagou Coverage Results" MODIFIED="1586167065131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$get_Hs.coverage" NAME="get_Hs Coverage Results" MODIFIED="1587545385153" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
+    <SUITE FILE_PATH="coverage/python$ups.coverage" NAME="ups Coverage Results" MODIFIED="1587894173048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wuliugenzong" />
     <SUITE FILE_PATH="coverage/python$demo01_jichang.coverage" NAME="demo01_jichang Coverage Results" MODIFIED="1587623665619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jichang" />
     <SUITE FILE_PATH="coverage/python$demo02.coverage" NAME="demo02 Coverage Results" MODIFIED="1586158783935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$dome02_hs_bm.coverage" NAME="dome02_hs_bm Coverage Results" MODIFIED="1587090564075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/beatiful_soup" />
@@ -414,14 +355,18 @@
     <SUITE FILE_PATH="coverage/python$cookie.coverage" NAME="cookie自动登录 Coverage Results" MODIFIED="1586231104949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$demo11_lxml__1_.coverage" NAME="demo11_lxml (1) Coverage Results" MODIFIED="1586944428462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo13_dianyingtiantang.coverage" NAME="demo13_dianyingtiantang Coverage Results" MODIFIED="1587029428765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/python$demo_Queue.coverage" NAME="demo_Queue Coverage Results" MODIFIED="1587890705545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_duoxianchen" />
     <SUITE FILE_PATH="coverage/python$tenxun_html.coverage" NAME="tenxun.html Coverage Results" MODIFIED="1586946083146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
     <SUITE FILE_PATH="coverage/python$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1587430214871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
     <SUITE FILE_PATH="coverage/python$tests.coverage" NAME="tests Coverage Results" MODIFIED="1587695547286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/diango_demo/mysite/polls" />
     <SUITE FILE_PATH="coverage/python$get_gangkou.coverage" NAME="get_gangkou Coverage Results" MODIFIED="1587532734734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gangkou" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1587541932709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
     <SUITE FILE_PATH="coverage/python$demo10_ip.coverage" NAME="demo10_代理ip Coverage Results" MODIFIED="1586595301598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/python$demo_Condition.coverage" NAME="demo_Condition Coverage Results" MODIFIED="1587888435531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_duoxianchen" />
     <SUITE FILE_PATH="coverage/python$lxml.coverage" NAME="lxml Coverage Results" MODIFIED="1586942287142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$demo12_douban.coverage" NAME="demo12_douban Coverage Results" MODIFIED="1587008103463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/requests" />
+    <SUITE FILE_PATH="coverage/python$demo_lock.coverage" NAME="demo_lock Coverage Results" MODIFIED="1587886123506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_duoxianchen" />
     <SUITE FILE_PATH="coverage/python$gangkou_test.coverage" NAME="gangkou_test Coverage Results" MODIFIED="1587432954816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hs" />
+    <SUITE FILE_PATH="coverage/python$demo_doutu.coverage" NAME="demo_doutu Coverage Results" MODIFIED="1587895263069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/demo_duoxianchen" />
   </component>
 </project>
