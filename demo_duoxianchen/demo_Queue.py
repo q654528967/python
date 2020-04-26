@@ -1,38 +1,37 @@
-import threading
-from queue import Queue
-import time
+import requests
+from lxml import etree
+from urllib import request
+import os
+import re
 
 
-# q.put('x')
-# q.put('y')
-# q.put(3)
-# q.put(4)
-# print(q.full())
-# for x in range(4):
-#     print(q.get())
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149'
+                  ' Safari/537.36'
+}
 
 
-def set_value(q):
-    index = 0
-    while True:
-        q.put(index)
-        index += 1
-        time.sleep(3)
-
-
-def get_value(q):
-    while True:
-        print(q.get())
-        print(q.full())
+def parse_page(url):
+    response = requests.get(url, headers=headers)
+    text = response.text
+    html = etree.HTML(text)
+    imgs = html.xpath("""//div[@class='page-content text-center']//img[@class!='gif']""")
+    for img in imgs:
+        img_url = img.get('data-original')
+        alt = img.get('alt')
+        alt = re.sub(r'[\?？\.，。!！\&\$\*\@\#\<]', '', alt)
+        suffix = os.path.splitext(img_url)[1]
+        filename = alt + suffix
+        request.urlretrieve(img_url, 'images/'+filename)
 
 
 def main():
-    q = Queue(4)
-    t1 = threading.Thread(target=set_value, args=[q])
-    t2 = threading.Thread(target=get_value, args=[q])
-    t1.start()
-    t2.start()
+    for x in range(1, 51):
+        url = 'https://www.doutula.com/photo/list/?page=%s' % x
+        parse_page(url)
 
 
 if __name__ == '__main__':
     main()
+
+
