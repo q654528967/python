@@ -11,7 +11,7 @@ colorama==0.4.3
 constantly==15.1.0
 cryptography==2.9
 cssselect==1.1.0
-Django==2.2
+Django==2.2.13
 html5lib==1.0.1
 hyperlink==19.0.0
 idna==2.9
