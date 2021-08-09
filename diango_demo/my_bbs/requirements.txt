@@ -39,7 +39,7 @@ PyMySQL==0.9.3
 pyOpenSSL==19.1.0
 pypiwin32==223
 pytz==2019.3
-pywin32==227
+pywin32==301
 queuelib==1.5.0
 requests==2.23.0
 Scrapy==2.0.1
